@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e800fbe6-6ebb-42be-b0c1-c2e8f382c7ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Wave-Zero-user-script.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/js/havoc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/js/source.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wave-zero-user-script.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iyVHOXjRCjTtzQxrRoINievVTX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/js" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/js" />
+      <recent name="$PROJECT_DIR$/source" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e800fbe6-6ebb-42be-b0c1-c2e8f382c7ed" name="Default Changelist" comment="" />
+      <created>1602879729703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602879729703</updated>
+      <workItem from="1602879730821" duration="1328000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="190" key="#Deployment" timestamp="1602880976657">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="190" key="#Deployment/0.0.1680.1050@0.0.1680.1050" timestamp="1602880976657" />
+    <state x="462" y="181" key="#Options" timestamp="1602881006793">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="462" y="181" key="#Options/0.0.1680.1050@0.0.1680.1050" timestamp="1602881006793" />
+    <state x="745" y="182" width="687" height="685" key="ftp.server.browser" timestamp="1602880939903">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="745" y="182" width="687" height="685" key="ftp.server.browser/0.0.1680.1050@0.0.1680.1050" timestamp="1602880939903" />
+  </component>
+</project>
